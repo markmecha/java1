@@ -1,0 +1,18 @@
+public class Studentdetails{
+public static void main(String[]args){
+  String course = "DIT";
+  String name = "Mark mecha";
+  String reg = "22/08464";
+  String dob = "9/07/2020";
+  String vision = "TO EXCEL";
+  String favlang = "Java programing";
+
+  System.out.println("Course: " + course);
+  System.out.println("Name: " + name);
+  System.out.println("Registration Number: " + reg);
+  System.out.println("Date of Birth: " + dob);
+  System.out.println("Vision: " + vision);
+  System.out.println("Favourite programming language: " + favlang);
+  }
+}
+
